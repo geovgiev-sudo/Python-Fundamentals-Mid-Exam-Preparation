@@ -1,4 +1,4 @@
-# 🦮: **Tasks for midterm exam preparation in the SoftUni Python Fundamentals course**
+# 🐶 **Tasks for midterm exam preparation in the SoftUni Python Fundamentals course**
 
 ## :hot_face: **Problems:** 
 
