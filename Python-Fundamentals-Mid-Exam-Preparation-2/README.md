@@ -3,9 +3,10 @@
 ## :hot_face: **Problems:**
 
 ### Programming Fundamentals with Python: Exam Preparation
-1. ![Computer Store](Problems/01.Computer-Store.docx)
-2. ![The Lift](Problems/02.The-Lift.docx)
-3. ![Memory Game](Problems/03.Memory-Game.docx)
+    1. Bonus Scoring System
+    2. MuOnline
+    3. Manowar
 
+:exploding_head: **![Problem descriptions](Problems/07-Mid-Exam-Preparation-2.docx)**
 
 ### :blue_book: Practiced manipulating lists ###
